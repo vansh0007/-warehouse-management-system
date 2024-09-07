@@ -1,0 +1,56 @@
+[
+    {
+      "orderId": "ORD001",
+      "orderTotal": 199.99,
+      "orderDate": "2023-09-15",
+      "shippingAddress": "100 Dundas Street East, Toronto, ON M5B 2G8",
+      "customerName": "John Smith",
+      "customerEmail": "john.smith@example.com",
+      "lineItems": [
+        {
+          "lineItemId": "LI001",
+          "productId": "BDAY001",
+          "productName": "Birthday Box",
+          "price": 99.99
+        },
+        {
+          "lineItemId": "LI002",
+          "productId": "VAL001",
+          "productName": "Valentine's Box",
+          "price": 100.00
+        }
+      ]
+    },
+    {
+      "orderId": "ORD002",
+      "orderTotal": 100.00,
+      "orderDate": "2023-09-15",
+      "shippingAddress": "100 Queen Street East, Toronto, ON M5C 1S6",
+      "customerName": "Rob Smith",
+      "customerEmail": "rob.smith@example.com",
+      "lineItems": [
+        {
+          "lineItemId": "LI003",
+          "productId": "VAL001",
+          "productName": "Valentine's Box",
+          "price": 100.00
+        }
+      ]
+    },
+    {
+      "orderId": "ORD003",
+      "orderTotal": 99.99,
+      "orderDate": "2023-09-15",
+      "shippingAddress": "100 King Street East, Toronto, ON M5C 1G6",
+      "customerName": "Dan Smith",
+      "customerEmail": "dan.smith@example.com",
+      "lineItems": [
+        {
+          "lineItemId": "LI004",
+          "productId": "BDAY001",
+          "productName": "Birthday Box",
+          "price": 99.99
+        }
+      ]
+    }
+  ]

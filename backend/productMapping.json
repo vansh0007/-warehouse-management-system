@@ -1,0 +1,27 @@
+{
+    "BDAY001": {
+      "name": "Birthday Box",
+      "components": [
+        { "productId": "BDAY_CUPCAKE", "name": "Birthday cupcake", "quantity": 1 },
+        { "productId": "VISA_CARD", "name": "$100 Visa Gift Card", "quantity": 1 },
+        { "productId": "BDAY_CARD", "name": "Birthday card", "quantity": 1 }
+      ]
+    },
+    "VAL001": {
+      "name": "Valentine's Box",
+      "components": [
+        { "productId": "RED_ROSES", "name": "Red Roses Bouquet", "quantity": 1 },
+        { "productId": "CHOCOLATES", "name": "Box of chocolates", "quantity": 1 },
+        { "productId": "LOVE_CARD", "name": "Love card", "quantity": 1 },
+        { "productId": "PERFUME", "name": "Women's perfume", "quantity": 1 }
+      ]
+    },
+    "CLIENT001": {
+      "name": "Client Gift Box",
+      "components": [
+        { "productId": "WINE", "name": "Bottle of wine", "quantity": 1 },
+        { "productId": "FRUIT_BASKET", "name": "Fruit basket", "quantity": 1 },
+        { "productId": "PEN", "name": "Pen", "quantity": 1 }
+      ]
+    }
+  }
