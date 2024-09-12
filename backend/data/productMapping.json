@@ -4,7 +4,7 @@
       "components": [
         { "productId": "BDAY_CUPCAKE", "name": "Birthday cupcake", "quantity": 1 },
         { "productId": "VISA_CARD", "name": "$100 Visa Gift Card", "quantity": 1 },
-        { "productId": "BDAY_CARD", "name": "Birthday card", "quantity": 1 }
+        { "productId": "BDAY_CARD", "name": "Birthday card", "quantity": 50 }
       ]
     },
     "VAL001": {
